@@ -2,14 +2,8 @@
 	<h1>Keystone</h1>
 </div>
 <div align="center">
-	<a href="https://github.com/LastTalon/Monolith/actions/workflows/ci.yaml">
-		<img src="https://github.com/LastTalon/Monolith/actions/workflows/ci.yaml/badge.svg" alt="CI Status">
-	</a>
-	<a href="https://isologicgames.github.io/Monolith/">
-		<img src="https://img.shields.io/badge/docs-website-informational" alt="Documentation">
-	</a>
-	<a href="https://isologicgames.github.io/Monolith/api/">
-		<img src="https://img.shields.io/badge/docs-api-informational" alt="API Reference">
+	<a href="https://github.com/LastTalon/keystone/actions/workflows/ci.yaml">
+		<img src="https://github.com/LastTalon/keystone/actions/workflows/ci.yaml/badge.svg" alt="CI Status">
 	</a>
 </div>
 <br>
